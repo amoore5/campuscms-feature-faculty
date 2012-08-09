@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Faculty feature.
+ */
+
+include_once 'campuscms_feature_faculty.features.inc';
