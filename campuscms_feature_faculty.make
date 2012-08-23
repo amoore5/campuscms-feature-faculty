@@ -6,4 +6,4 @@ api = 2
 
 projects[auto_nodetitle] = 1.0
 
-projects[views]  = 3.3
+projects[views]  = 3.4
